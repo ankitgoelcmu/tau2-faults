@@ -25,4 +25,7 @@ preferred-citation:
       given-names: Ankit
       orcid: "https://orcid.org/0009-0000-8939-8745"
   year: 2026
-  url: "https://github.com/ankitgoelcmu/faultline-agent"
+  publisher:
+    name: Preprints
+  doi: "10.20944/preprints202611.2064.v1"
+  url: "https://doi.org/10.20944/preprints202611.2064.v1"

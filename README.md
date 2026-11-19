@@ -80,7 +80,9 @@ If you use `tau2-faults`, please cite the paper it was built for, and the softwa
   title  = {Tool Contracts and Output Defenses Under Agent Faults:
             A Pre-Registered Replication and $\tau^2$-bench Extension},
   year   = {2026},
-  note   = {Preprint. Code: https://github.com/ankitgoelcmu/faultline-agent}
+  publisher = {Preprints},
+  doi    = {10.20944/preprints202611.2064.v1},
+  url    = {https://doi.org/10.20944/preprints202611.2064.v1}
 }
 ```
 
