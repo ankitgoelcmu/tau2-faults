@@ -9,6 +9,8 @@ authors:
     given-names: Ankit
     orcid: "https://orcid.org/0009-0000-8939-8745"
 repository-code: "https://github.com/ankitgoelcmu/tau2-faults"
+doi: "10.5281/zenodo.24356187"
+url: "https://pypi.org/project/tau2-faults/"
 keywords:
   - tau2-bench
   - LLM agents

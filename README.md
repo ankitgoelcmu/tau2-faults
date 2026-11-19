@@ -1,5 +1,7 @@
 # tau2-faults
 
+[![PyPI](https://img.shields.io/pypi/v/tau2-faults)](https://pypi.org/project/tau2-faults/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24356187.svg)](https://doi.org/10.5281/zenodo.24356187)
+
 Tool-fault injection for [τ²-bench](https://github.com/sierra-research/tau2-bench), without changing τ²-bench's code.
 
 Real tools fail. A write can succeed while its reply is lost, a service can return a transient error, and a read can come from a replica that is one write behind. `tau2-faults` adds these faults to τ²-bench's airline and retail domains, so you can measure how agents recover:
@@ -70,7 +72,7 @@ python tests/test_replay.py    # 4 "ok" lines, no API calls
 
 ## Cite
 
-If you use `tau2-faults`, please cite the paper it was built for:
+If you use `tau2-faults`, please cite the paper it was built for, and the software (DOI [10.5281/zenodo.24356187](https://doi.org/10.5281/zenodo.24356187)):
 
 ```bibtex
 @misc{goel2026toolcontracts,
